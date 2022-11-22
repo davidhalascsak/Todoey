@@ -9,8 +9,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     // it is called when your app gets launched
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         
-        
-        
         return true
     }
 
